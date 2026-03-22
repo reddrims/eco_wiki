@@ -1,0 +1,537 @@
+https://github.com/reddrims/eco_wiki ,may requier some manual input
+{| class="wikitable sortable"
+!Furniture Variants !! Group Furniture !! Furniture Type !! Housing Value !! Yield !! Volume Required !! Notes
+|-
+|Adorned Ashlar  Bench ||Adorned Ashlar  Bench ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Adorned Ashlar Basalt Chair<br>Adorned Ashlar Gneiss Chair<br>Adorned Ashlar Granite Chair<br>Adorned Ashlar Limestone Chair<br>Adorned Ashlar Sandstone Chair<br>Adorned Ashlar Shale Chair<br>Adorned Ashlar Stone Chair||Adorned Ashlar Chair||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Adorned Ashlar Basalt Table<br>Adorned Ashlar Gneiss Table<br>Adorned Ashlar Granite Table<br>Adorned Ashlar Limestone Table<br>Adorned Ashlar Sandstone Table<br>Adorned Ashlar Shale Table<br>Adorned Ashlar Stone Table||Adorned Ashlar Table||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Adorned Ashlar Gneiss Bench<br>Adorned Ashlar Granite Bench<br>Adorned Ashlar Limestone Bench<br>Adorned Ashlar Sandstone Bench<br>Adorned Ashlar Shale Bench<br>Adorned Ashlar Stone Bench||Adorned Ashlar Bench||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Anatomy Book ||Anatomy Book ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ashlar Basalt Bench<br>Ashlar Gneiss Bench<br>Ashlar Granite Bench<br>Ashlar Limestone Bench<br>Ashlar Sandstone Bench<br>Ashlar Shale Bench<br>Ashlar Stone Bench||Ashlar Bench||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ashlar Basalt Chair<br>Ashlar Gneiss Chair<br>Ashlar Granite Chair<br>Ashlar Limestone Chair<br>Ashlar Sandstone Chair<br>Ashlar Shale Chair<br>Ashlar Stone Chair||Ashlar Chair||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ashlar Basalt Fireplace<br>Ashlar Gneiss Fireplace<br>Ashlar Granite Fireplace<br>Ashlar Limestone Fireplace<br>Ashlar Sandstone Fireplace<br>Ashlar Shale Fireplace<br>Ashlar Stone Fireplace||Ashlar Fireplace||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ashlar Basalt Table<br>Ashlar Gneiss Table<br>Ashlar Granite Table<br>Ashlar Limestone Table<br>Ashlar Sandstone Table<br>Ashlar Shale Table<br>Ashlar Stone Table||Ashlar Table||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ashlar Large Basalt Fountain<br>Ashlar Large Gneiss Fountain<br>Ashlar Large Granite Fountain<br>Ashlar Large Limestone Fountain<br>Ashlar Large Sandstone Fountain<br>Ashlar Large Shale Fountain<br>Ashlar Large Stone Fountain||Ashlar Large Fountain||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ashlar Small Basalt Fountain<br>Ashlar Small Gneiss Fountain<br>Ashlar Small Granite Fountain<br>Ashlar Small Limestone Fountain<br>Ashlar Small Sandstone Fountain<br>Ashlar Small Shale Fountain<br>Ashlar Small Stone Fountain||Ashlar Small Fountain||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Atlas Book ||Atlas Book ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Bakery Oven ||Bakery Oven ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Banana Rug ||Banana Rug ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Bathtub ||Bathtub ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Bison Mount ||Bison Mount ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Bison Pelt ||Bison Pelt ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Bookshelf ||Bookshelf ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Botanical Book ||Botanical Book ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Brazier ||Brazier ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Brick Fireplace ||Brick Fireplace ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Butchery Table ||Butchery Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Candle Stand ||Candle Stand ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cart Blueprint Poster ||Cart Blueprint Poster ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Carved Pumpkin ||Carved Pumpkin ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Bed ||Cast Iron Bed ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Bench ||Cast Iron Bench ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Chair ||Cast Iron Chair ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Plaque ||Cast Iron Plaque ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Royal Bed ||Cast Iron Royal Bed ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Stove ||Cast Iron Stove ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cast Iron Table ||Cast Iron Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ceiling Candle ||Ceiling Candle ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ceramic Tea Cup ||Ceramic Tea Cup ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ceramic Tea Pot ||Ceramic Tea Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ceramic Tray ||Ceramic Tray ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Chandelier ||Chandelier ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Coffee Table ||Coffee Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Composite Birch Bench<br>Composite Cedar Bench<br>Composite Ceiba Bench<br>Composite Fir Bench<br>Composite Hardwood Bench<br>Composite Joshua Bench<br>Composite Lumber Bench<br>Composite Oak Bench<br>Composite Palm Bench<br>Composite Redwood Bench<br>Composite Saguaro Bench<br>Composite Softwood Bench<br>Composite Spruce Bench||Composite Bench||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Composite Birch Chair<br>Composite Cedar Chair<br>Composite Ceiba Chair<br>Composite Fir Chair<br>Composite Hardwood Chair<br>Composite Joshua Chair<br>Composite Lumber Chair<br>Composite Oak Chair<br>Composite Palm Chair<br>Composite Redwood Chair<br>Composite Saguaro Chair<br>Composite Softwood Chair<br>Composite Spruce Chair||Composite Chair||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Composite Birch Table<br>Composite Cedar Table<br>Composite Ceiba Table<br>Composite Fir Table<br>Composite Hardwood Table<br>Composite Joshua Table<br>Composite Lumber Table<br>Composite Oak Table<br>Composite Palm Table<br>Composite Redwood Table<br>Composite Saguaro Table<br>Composite Softwood Table<br>Composite Spruce Table||Composite Table||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Copper Frame Landscape ||Copper Frame Landscape ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Copper Frame Portrait ||Copper Frame Portrait ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Copper Frame Square ||Copper Frame Square ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Copper Frame Tall ||Copper Frame Tall ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Copper Frame Wide ||Copper Frame Wide ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cotton Streamer Stars ||Cotton Streamer Stars ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Cotton Streamer Stripes ||Cotton Streamer Stripes ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Couch ||Couch ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Country Foundation ||Country Foundation ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Decorative Anchor ||Decorative Anchor ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Decorative Glass Buoy Blue <br>Decorative Glass Buoy Green <br>Decorative Glass Buoy Red <br>Decorative Glass Buoy Violet <br>Decorative Glass Buoy Yellow ||Decorative Glass Buoy ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Decorative Hanging Buoy ||Decorative Hanging Buoy ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Decorative Life Preserver ||Decorative Life Preserver ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Decorative Ship Wheel ||Decorative Ship Wheel ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Deer Pelt ||Deer Pelt ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Eco Book ||Eco Book ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Election Poster ||Election Poster ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Electric Wall Lamp ||Electric Wall Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Elk Gong ||Elk Gong ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Elk Mount ||Elk Mount ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Elk Statuette ||Elk Statuette ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Federation Foundation ||Federation Foundation ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Fish Kites ||Fish Kites ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Fox Pelt ||Fox Pelt ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Friendly Scarecrow ||Friendly Scarecrow ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Galaxy Vase ||Galaxy Vase ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Garden Pond ||Garden Pond ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Goat Mount ||Goat Mount ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Gold Frame Landscape ||Gold Frame Landscape ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Gold Frame Portrait ||Gold Frame Portrait ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Gold Frame Square ||Gold Frame Square ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Gold Frame Tall ||Gold Frame Tall ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Gold Frame Wide ||Gold Frame Wide ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Gold Trim Book ||Gold Trim Book ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Granite Spiral Fountain|| Spiral Fountain||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Granite Terrace Fountain|| Terrace Fountain||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hanging Basket ||Hanging Basket ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hanging Electric Wall Lamp ||Hanging Electric Wall Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Hardwood Double Shelf<br> Softwood Double Shelf<br> Wood Double Shelf|| Double Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Hardwood Lumber Bench<br> Softwood Lumber Bench|| Lumber Bench||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Hardwood Lumber Chair<br> Softwood Lumber Chair|| Lumber Chair||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Hardwood Lumber Dresser<br> Softwood Lumber Dresser|| Lumber Dresser||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Hardwood Lumber Hallway Table<br> Softwood Lumber Hallway Table|| Lumber Hallway Table||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Hardwood Lumber Table<br> Softwood Lumber Table|| Lumber Table||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hare Pelt ||Hare Pelt ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Bench ||Hewn Bench ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Chair ||Hewn Chair ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Dresser ||Hewn Dresser ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Hardwood Bench<br>Hewn Softwood Bench||Hewn Bench||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Hardwood Chair<br>Hewn Softwood Chair||Hewn Chair||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Hardwood Table<br>Hewn Softwood Table||Hewn Table||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Nightstand ||Hewn Nightstand ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hewn Table ||Hewn Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Hourglass ||Hourglass ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Icebox ||Icebox ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Iron Frame Landscape ||Iron Frame Landscape ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Iron Frame Portrait ||Iron Frame Portrait ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Iron Frame Square ||Iron Frame Square ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Iron Frame Tall ||Iron Frame Tall ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Iron Frame Wide ||Iron Frame Wide ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Kitchen ||Kitchen ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Kite ||Kite ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Koi Pond ||Koi Pond ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Large Bath Mat ||Large Bath Mat ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Large Cotton Bunting Festive ||Large Cotton Bunting Festive ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Large Cotton Bunting Red <br>Large Cotton Bunting Regal <br>Large Cotton Bunting Vibrant ||Large Cotton Bunting ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Large Festive Paper Lantern ||Large Festive Paper ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Large Nylon Bunting Green <br>Large Nylon Bunting Purple <br>Large Nylon Bunting Yellow ||Large Nylon Bunting ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Large Paper Lantern ||Large Paper ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Lighthouse Lamp ||Lighthouse Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Limestone Bison Statue|| Bison Statue||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Limestone Otter Statue|| Otter Statue||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Limestone Owl Statue|| Owl Statue||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Limestone Wolf Statue|| Wolf Statue||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Basic Hardwood Shelf<br>Long Basic Softwood Shelf<br>Long Basic Wood Shelf||Long Basic Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Floating Hardwood Shelf<br>Long Floating Softwood Shelf<br>Long Floating Wood Shelf||Long Floating Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Hardwood Lumber Shelf<br>Long Softwood Lumber Shelf||Long Lumber Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Hardwood Veneer Shelf<br>Long Softwood Veneer Shelf<br>Long Wood Veneer Shelf||Long Veneer Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Lumber Shelf||Long Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Steel Shelf ||Long Steel Shelf ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Long Thin Hardwood Veneer Shelf<br>Long Thin Softwood Veneer Shelf<br>Long Thin Wood Veneer Shelf||Long Thin Veneer Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Lumber Bench|| Bench||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Lumber Chair|| Chair||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Lumber Dresser|| Dresser||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Lumber Hallway Table|| Hallway Table||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Lumber Table|| Table||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Mill ||Mill ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Modern Double Street Light ||Modern Double Street Light ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Modern Street Light ||Modern Street Light ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Mortared Granite Bench<br>Mortared Limestone Bench<br>Mortared Sandstone Bench<br>Mortared Stone Bench||Mortared Bench||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Mortared Granite Chair<br>Mortared Limestone Chair<br>Mortared Sandstone Chair<br>Mortared Stone Chair||Mortared Chair||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Mortared Granite Fireplace<br>Mortared Limestone Fireplace<br>Mortared Sandstone Fireplace<br>Mortared Stone Fireplace||Mortared Fireplace||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Mortared Granite Table<br>Mortared Limestone Table<br>Mortared Sandstone Table<br>Mortared Stone Table||Mortared Table||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Nylon Futon Bed ||Nylon Futon Bed ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Nylon Futon Couch ||Nylon Futon Couch ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Orange Vase ||Orange Vase ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Cast Iron Plaque ||Ornate Cast Iron Plaque ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Gold Frame Landscape ||Ornate Gold Frame Landscape ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Gold Frame Portrait ||Ornate Gold Frame Portrait ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Gold Frame Square ||Ornate Gold Frame Square ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Gold Frame Tall ||Ornate Gold Frame Tall ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Gold Frame Wide ||Ornate Gold Frame Wide ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Iron Frame Landscape ||Ornate Iron Frame Landscape ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Iron Frame Portrait ||Ornate Iron Frame Portrait ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Iron Frame Square ||Ornate Iron Frame Square ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Iron Frame Tall ||Ornate Iron Frame Tall ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Iron Frame Wide ||Ornate Iron Frame Wide ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Stone Plaque<br>Ornate Wood Plaque||Ornate Plaque||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Wooden Frame Landscape ||Ornate Wooden Frame Landscape ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Wooden Frame Portrait ||Ornate Wooden Frame Portrait ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Wooden Frame Square ||Ornate Wooden Frame Square ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Wooden Frame Tall ||Ornate Wooden Frame Tall ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Ornate Wooden Frame Wide ||Ornate Wooden Frame Wide ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Orrery ||Orrery ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Padded Chair ||Padded Chair ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Participation Trophy ||Participation Trophy ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Periodic Table Poster ||Periodic Table Poster ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Plant Vase ||Plant Vase ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Plastic Outdoor Bench ||Plastic Outdoor Bench ||Bench||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Plastic Outdoor Chair ||Plastic Outdoor Chair ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Plastic Outdoor Table ||Plastic Outdoor Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Plastic Window Planter ||Plastic Window Planter ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Purple Vase<br> Red Vase|| Vase||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Redwoods Poster ||Redwoods Poster ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Refrigerator ||Refrigerator ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Rotating Cube ||Rotating Cube ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Round Pot ||Round Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Rug Large ||Rug Large ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Rug Medium ||Rug Medium ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Rug Small ||Rug Small ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Rustic Window Planter ||Rustic Window Planter ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Salt Basket ||Salt Basket ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Saved The World Achievement Trophy ||Saved The World Achievement Trophy ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Scarecrow ||Scarecrow ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Sheep Mount ||Sheep Mount ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Shelf Cabinet ||Shelf Cabinet ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Short Basic Hardwood Shelf<br>Short Basic Softwood Shelf<br>Short Basic Wood Shelf||Short Basic Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Short Curved Hardwood Veneer Shelf<br>Short Curved Softwood Veneer Shelf<br>Short Curved Wood Veneer Shelf||Short Curved Veneer Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Short Floating Hardwood Shelf<br>Short Floating Softwood Shelf<br>Short Floating Wood Shelf||Short Floating Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Short Hardwood Veneer Shelf<br>Short Softwood Veneer Shelf<br>Short Wood Veneer Shelf||Short Veneer Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Short Steel Shelf ||Short Steel Shelf ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Short Thin Hardwood Veneer Shelf<br>Short Thin Softwood Veneer Shelf<br>Short Thin Wood Veneer Shelf||Short Thin Veneer Shelf||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Sink ||Sink ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Bath Mat ||Small Bath Mat ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Clay Pot ||Small Clay Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Cotton Bunting Festive ||Small Cotton Bunting Festive ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Cotton Bunting Red <br>Small Cotton Bunting Regal <br>Small Cotton Bunting Vibrant ||Small Cotton Bunting ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Faceted Steel Pot ||Small Faceted Steel Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Nylon Bunting Green <br>Small Nylon Bunting Purple <br>Small Nylon Bunting Yellow ||Small Nylon Bunting ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Paper Lantern ||Small Paper ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Rough Basalt Pot<br>Small Rough Limestone Pot||Small Rough Pot||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Round Limestone Pot||Small Round Pot||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Sink ||Small Sink ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Square Basalt Pot<br>Small Square Limestone Pot||Small Square Pot||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Square Clay Pot ||Small Square Clay Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Small Steel Pot ||Small Steel Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Square Lumber Pot||Square Pot||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Square Pot ||Square Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Standing Basalt Pot||Standing Pot||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Standing Clay Pot ||Standing Clay Pot ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Abstract Fixture ||Steel Abstract Fixture ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Ceiling Light ||Steel Ceiling Light ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Floor Lamp ||Steel Floor Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Hanging Fixture ||Steel Hanging Fixture ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Hanging Lamp ||Steel Hanging Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Kitchen Lamp ||Steel Kitchen Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Searchlight ||Steel Searchlight ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Square Fixture ||Steel Square Fixture ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Steel Table Lamp ||Steel Table Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Stone Brazier|| Brazier||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Stone Plaque<br> Wood Plaque|| Plaque||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stove ||Stove ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Streetlamp ||Streetlamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stuffed Alligator ||Stuffed Alligator ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stuffed Bison ||Stuffed Bison ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stuffed Elk ||Stuffed Elk ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stuffed Goat ||Stuffed Goat ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stuffed Jaguar ||Stuffed Jaguar ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stuffed Wolf ||Stuffed Wolf ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stump Bed ||Stump Bed ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stump Chair ||Stump Chair ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stump Latrine ||Stump Latrine ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Stump Table ||Stump Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Swirl Vase ||Swirl Vase ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tall Limestone Pot||Tall Pot||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tallow Candle ||Tallow Candle ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tallow Lamp ||Tallow Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tallow Wall Lamp ||Tallow Wall Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tapestry ||Tapestry ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tapestry Fish ||Tapestry Fish ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tapestry Sunset ||Tapestry Sunset ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Tiki Torch ||Tiki Torch ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Toilet ||Toilet ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Torch Stand ||Torch Stand ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Towel Rack ||Towel Rack ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Town Bell ||Town Bell ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Town Foundation ||Town Foundation ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Trophy Artist ||Trophy Artist ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Trophy Baker ||Trophy Baker ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Trophy Farmer ||Trophy Farmer ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Trophy Logger ||Trophy Logger ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Trophy Miner ||Trophy Miner ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Upholstered Chair ||Upholstered Chair ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Upholstered Couch ||Upholstered Couch ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wall Candle ||Wall Candle ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Washboard ||Washboard ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Washing Machine ||Washing Machine ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Window Shutters Center ||Window Shutters Center ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Window Shutters Left ||Window Shutters Left ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Window Shutters Right ||Window Shutters Right ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wolf Pelt ||Wolf Pelt ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+| Wood Window Planter|| Window Planter||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Ceiling Light ||Wooden Ceiling Light ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Fabric Bed ||Wooden Fabric Bed ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Floor Lamp ||Wooden Floor Lamp ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Frame Landscape ||Wooden Frame Landscape ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Frame Portrait ||Wooden Frame Portrait ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Frame Square ||Wooden Frame Square ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Frame Tall ||Wooden Frame Tall ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Frame Wide ||Wooden Frame Wide ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Kitchen Lamp ||Wooden Kitchen Lamp ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Latrine ||Wooden Latrine ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Straw Bed ||Wooden Straw Bed ||Chair||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Table Lamp ||Wooden Table Lamp ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Wooden Wall Torch Stand ||Wooden Wall Torch Stand ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
+|-
+|Zataku Table ||Zataku Table ||Table||<!--Value-->||<!--Yield-->||<!--volume-->|
